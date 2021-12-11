@@ -1,6 +1,6 @@
 # melody
-Учебный проект GLO Academy
-##  Технологии
+##  Учебный проект GLO Academy
+### Технологии
 -  html
 -  css
 -  javascript
